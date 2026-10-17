@@ -1,0 +1,15 @@
+PreSecurity - TryHackMe
+--------------------------------------------------------
+Task1. Think like a hacker.
+Bezpieczeństwo ofensywne polega na tym aby myśleć jak hacker - znaleźć słabości zanim prawdziwy hacker to zrobi.
+--------------------------------------------------------
+Task2. Starting the lab 
+- Praktyczne ćwiczenie.
+--------------------------------------------------------
+Task3. Find hidden pages
+W tym podrozdziale należało użyć pierwszego narzędzia, które używane jest w hackowaniu. 
+
+  **dirbuster = dirb**
+
+słuzy ono w enumeracji katalogów na stronach www
+--------------------------------------------------------
